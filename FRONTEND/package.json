@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Aplicación que consume API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaibarra/CLASE-ALPHA-PRUEBA.git"
+  },
+  "author": "Mariana Zapata Ibarra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianaibarra/CLASE-ALPHA-PRUEBA/issues"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  }
+}

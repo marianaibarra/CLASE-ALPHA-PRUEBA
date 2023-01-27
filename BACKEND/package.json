@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Json API que expone la información de los usuarios",
+  "main": "db.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3004"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaibarra/CLASE-ALPHA-PRUEBA.git"
+  },
+  "author": "Mariana Zapata Ibarra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianaibarra/CLASE-ALPHA-PRUEBA/issues"
+  },
+  "homepage": "https://github.com/marianaibarra/CLASE-ALPHA-PRUEBA#readme",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "node-fetch": "2.0"
+  }
+}

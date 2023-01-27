@@ -1,0 +1,702 @@
+{ "users": [
+  {
+    "id": 1,
+    "n_department": 20,
+    "name": "Sarah",
+    "percentage": 8.100027964149736e-14,
+    "password": 6028
+  },
+  {
+    "id": 2,
+    "n_department": 56,
+    "name": "Layla",
+    "percentage": 0,
+    "password": 8200
+  },
+  {
+    "id": 3,
+    "n_department": 51,
+    "name": "Alexa",
+    "percentage": 0,
+    "password": 7823
+  },
+  {
+    "id": 4,
+    "n_department": 71,
+    "name": "Amelia",
+    "percentage": 0,
+    "password": 2188
+  },
+  {
+    "id": 5,
+    "n_department": 37,
+    "name": "Sofia",
+    "percentage": 0,
+    "password": 3612
+  },
+  {
+    "id": 6,
+    "n_department": 54,
+    "name": "Kylie",
+    "percentage": 0,
+    "password": 3095
+  },
+  {
+    "id": 7,
+    "n_department": 98,
+    "name": "Sara",
+    "percentage": 0,
+    "password": 3124
+  },
+  {
+    "id": 8,
+    "n_department": 33,
+    "name": "Allison",
+    "percentage": 0,
+    "password": 1644
+  },
+  {
+    "id": 9,
+    "n_department": 82,
+    "name": "Rachel",
+    "percentage": 0,
+    "password": 7877
+  },
+  {
+    "id": 10,
+    "n_department": 14,
+    "name": "Mia",
+    "percentage": 1.7615221325289396e-9,
+    "password": 8738
+  },
+  {
+    "id": 11,
+    "n_department": 65,
+    "name": "Zoe",
+    "percentage": 0,
+    "password": 9403
+  },
+  {
+    "id": 12,
+    "n_department": 46,
+    "name": "Aubrey",
+    "percentage": 0,
+    "password": 9654
+  },
+  {
+    "id": 13,
+    "n_department": 78,
+    "name": "Amelia",
+    "percentage": 0,
+    "password": 6160
+  },
+  {
+    "id": 14,
+    "n_department": 49,
+    "name": "Audrey",
+    "percentage": 0,
+    "password": 9534
+  },
+  {
+    "id": 15,
+    "n_department": 34,
+    "name": "Kaylee",
+    "percentage": 0,
+    "password": 3231
+  },
+  {
+    "id": 16,
+    "n_department": 79,
+    "name": "Arianna",
+    "percentage": 0,
+    "password": 9103
+  },
+  {
+    "id": 17,
+    "n_department": 89,
+    "name": "Sophie",
+    "percentage": 0,
+    "password": 6234
+  },
+  {
+    "id": 18,
+    "n_department": 30,
+    "name": "Kayla",
+    "percentage": 0,
+    "password": 2336
+  },
+  {
+    "id": 19,
+    "n_department": 80,
+    "name": "Mackenzie",
+    "percentage": 0,
+    "password": 7397
+  },
+  {
+    "id": 20,
+    "n_department": 18,
+    "name": "Hannah",
+    "percentage": 4.151144589050317e-11,
+    "password": 4484
+  },
+  {
+    "id": 21,
+    "n_department": 72,
+    "name": "Zoe",
+    "percentage": 0,
+    "password": 2476
+  },
+  {
+    "id": 22,
+    "n_department": 91,
+    "name": "Andrea",
+    "percentage": 0,
+    "password": 3671
+  },
+  {
+    "id": 23,
+    "n_department": 9,
+    "name": "Elizabeth",
+    "percentage": 0.0007950435185887178,
+    "password": 2973
+  },
+  {
+    "id": 24,
+    "n_department": 63,
+    "name": "Alexa",
+    "percentage": 0,
+    "password": 2833
+  },
+  {
+    "id": 25,
+    "n_department": 95,
+    "name": "Maya",
+    "percentage": 0,
+    "password": 5207
+  },
+  {
+    "id": 26,
+    "n_department": 17,
+    "name": "Alexis",
+    "percentage": 1.3417343737659866e-9,
+    "password": 8260
+  },
+  {
+    "id": 27,
+    "n_department": 44,
+    "name": "Gabriella",
+    "percentage": 0,
+    "password": 1628
+  },
+  {
+    "id": 28,
+    "n_department": 39,
+    "name": "Lauren",
+    "percentage": 0,
+    "password": 7439
+  },
+  {
+    "id": 29,
+    "n_department": 8,
+    "name": "Abigail",
+    "percentage": 0.05687312954856923,
+    "password": 6482
+  },
+  {
+    "id": 30,
+    "n_department": 22,
+    "name": "Alyssa",
+    "percentage": 4.6522617676425547e-11,
+    "password": 3438
+  },
+  {
+    "id": 31,
+    "n_department": 59,
+    "name": "Leah",
+    "percentage": 0,
+    "password": 2260
+  },
+  {
+    "id": 32,
+    "n_department": 94,
+    "name": "Mackenzie",
+    "percentage": 0,
+    "password": 7881
+  },
+  {
+    "id": 33,
+    "n_department": 41,
+    "name": "Lillian",
+    "percentage": 0,
+    "password": 8034
+  },
+  {
+    "id": 34,
+    "n_department": 7,
+    "name": "Sophia",
+    "percentage": 0.0027578645111156286,
+    "password": 3488
+  },
+  {
+    "id": 35,
+    "n_department": 48,
+    "name": "Allison",
+    "percentage": 0,
+    "password": 8291
+  },
+  {
+    "id": 36,
+    "n_department": 38,
+    "name": "Anna",
+    "percentage": 8.650586764010589e-17,
+    "password": 5800
+  },
+  {
+    "id": 37,
+    "n_department": 64,
+    "name": "Julia",
+    "percentage": 0,
+    "password": 2991
+  },
+  {
+    "id": 38,
+    "n_department": 42,
+    "name": "Victoria",
+    "percentage": 1.2608771391653214e-14,
+    "password": 6134
+  },
+  {
+    "id": 39,
+    "n_department": 88,
+    "name": "Layla",
+    "percentage": 0,
+    "password": 1521
+  },
+  {
+    "id": 40,
+    "n_department": 77,
+    "name": "Destiny",
+    "percentage": 0,
+    "password": 9909
+  },
+  {
+    "id": 41,
+    "n_department": 67,
+    "name": "Julia",
+    "percentage": 0,
+    "password": 7923
+  },
+  {
+    "id": 42,
+    "n_department": 100,
+    "name": "Jessica",
+    "percentage": 0,
+    "password": 4410
+  },
+  {
+    "id": 43,
+    "n_department": 83,
+    "name": "Destiny",
+    "percentage": 0,
+    "password": 9250
+  },
+  {
+    "id": 44,
+    "n_department": 32,
+    "name": "Brianna",
+    "percentage": 1.0622448557681062e-14,
+    "password": 8091
+  },
+  {
+    "id": 45,
+    "n_department": 40,
+    "name": "Hailey",
+    "percentage": 8.714500698275514e-16,
+    "password": 5078
+  },
+  {
+    "id": 46,
+    "n_department": 81,
+    "name": "Katherine",
+    "percentage": 0,
+    "password": 7810
+  },
+  {
+    "id": 47,
+    "n_department": 11,
+    "name": "Abigail",
+    "percentage": 0.05687312954856923,
+    "password": 8704
+  },
+  {
+    "id": 48,
+    "n_department": 12,
+    "name": "Abigail",
+    "percentage": 0.05687312954856923,
+    "password": 1144
+  },
+  {
+    "id": 49,
+    "n_department": 26,
+    "name": "Alyssa",
+    "percentage": 4.6522617676425547e-11,
+    "password": 2259
+  },
+  {
+    "id": 50,
+    "n_department": 25,
+    "name": "Alexis",
+    "percentage": 1.3417343737659866e-9,
+    "password": 9177
+  },
+  {
+    "id": 51,
+    "n_department": 31,
+    "name": "Ashley",
+    "percentage": 7.79384739387914e-12,
+    "password": 9918
+  },
+  {
+    "id": 52,
+    "n_department": 6,
+    "name": "Olivia",
+    "percentage": 0.00792290633139072,
+    "password": 5773
+  },
+  {
+    "id": 53,
+    "n_department": 13,
+    "name": "Sophia",
+    "percentage": 0.0027578645111156286,
+    "password": 4083
+  },
+  {
+    "id": 54,
+    "n_department": 96,
+    "name": "Katherine",
+    "percentage": 0,
+    "password": 1697
+  },
+  {
+    "id": 55,
+    "n_department": 4,
+    "name": "Madison",
+    "percentage": 1.0829679743663312,
+    "password": 8050
+  },
+  {
+    "id": 56,
+    "n_department": 5,
+    "name": "Madison",
+    "percentage": 1.0829679743663312,
+    "password": 8850
+  },
+  {
+    "id": 57,
+    "n_department": 74,
+    "name": "Savannah",
+    "percentage": 0,
+    "password": 4260
+  },
+  {
+    "id": 58,
+    "n_department": 10,
+    "name": "Madison",
+    "percentage": 1.0829679743663312,
+    "password": 7845
+  },
+  {
+    "id": 59,
+    "n_department": 27,
+    "name": "Chloe",
+    "percentage": 0.00003211627074271675,
+    "password": 2236
+  },
+  {
+    "id": 60,
+    "n_department": 28,
+    "name": "Chloe",
+    "percentage": 0.00003211627074271675,
+    "password": 9239
+  },
+  {
+    "id": 61,
+    "n_department": 53,
+    "name": "Ashley",
+    "percentage": 7.79384739387914e-12,
+    "password": 5585
+  },
+  {
+    "id": 62,
+    "n_department": 73,
+    "name": "Kayla",
+    "percentage": 0,
+    "password": 8066
+  },
+  {
+    "id": 63,
+    "n_department": 35,
+    "name": "Samantha",
+    "percentage": 0.00013189613226619553,
+    "password": 5915
+  },
+  {
+    "id": 64,
+    "n_department": 43,
+    "name": "Addison",
+    "percentage": 0.000029932412172949983,
+    "password": 4158
+  },
+  {
+    "id": 65,
+    "n_department": 29,
+    "name": "Chloe",
+    "percentage": 0.00003211627074271675,
+    "password": 6539
+  },
+  {
+    "id": 66,
+    "n_department": 99,
+    "name": "Gabriella",
+    "percentage": 0,
+    "password": 2641
+  },
+  {
+    "id": 67,
+    "n_department": 86,
+    "name": "Lillian",
+    "percentage": 0,
+    "password": 2577
+  },
+  {
+    "id": 68,
+    "n_department": 92,
+    "name": "Kaylee",
+    "percentage": 0,
+    "password": 6878
+  },
+  {
+    "id": 69,
+    "n_department": 76,
+    "name": "Anna",
+    "percentage": 8.650586764010589e-17,
+    "password": 2903
+  },
+  {
+    "id": 70,
+    "n_department": 55,
+    "name": "Alexis",
+    "percentage": 1.3417343737659866e-9,
+    "password": 4886
+  },
+  {
+    "id": 71,
+    "n_department": 36,
+    "name": "Chloe",
+    "percentage": 0.00003211627074271675,
+    "password": 8205
+  },
+  {
+    "id": 72,
+    "n_department": 3,
+    "name": "Emily",
+    "percentage": 3.5172266440095035,
+    "password": 8401
+  },
+  {
+    "id": 73,
+    "n_department": 93,
+    "name": "Victoria",
+    "percentage": 1.2608771391653214e-14,
+    "password": 2697
+  },
+  {
+    "id": 74,
+    "n_department": 84,
+    "name": "Brianna",
+    "percentage": 1.0622448557681062e-14,
+    "password": 3272
+  },
+  {
+    "id": 75,
+    "n_department": 68,
+    "name": "Ella",
+    "percentage": 9.059502205895629e-13,
+    "password": 6036
+  },
+  {
+    "id": 76,
+    "n_department": 50,
+    "name": "Samantha",
+    "percentage": 0.00013189613226619553,
+    "password": 4033
+  },
+  {
+    "id": 77,
+    "n_department": 101,
+    "name": "Hailey",
+    "percentage": 8.714500698275514e-16,
+    "password": 3726
+  },
+  {
+    "id": 78,
+    "n_department": 24,
+    "name": "Abigail",
+    "percentage": 0.05687312954856923,
+    "password": 2718
+  },
+  {
+    "id": 79,
+    "n_department": 97,
+    "name": "Brianna",
+    "percentage": 1.0622448557681062e-14,
+    "password": 8927
+  },
+  {
+    "id": 80,
+    "n_department": 66,
+    "name": "Alyssa",
+    "percentage": 4.6522617676425547e-11,
+    "password": 7835
+  },
+  {
+    "id": 81,
+    "n_department": 61,
+    "name": "Mia",
+    "percentage": 1.7615221325289396e-9,
+    "password": 6696
+  },
+  {
+    "id": 82,
+    "n_department": 19,
+    "name": "Ava",
+    "percentage": 0.29109776719851993,
+    "password": 3831
+  },
+  {
+    "id": 83,
+    "n_department": 70,
+    "name": "Alexis",
+    "percentage": 1.3417343737659866e-9,
+    "password": 7721
+  },
+  {
+    "id": 84,
+    "n_department": 85,
+    "name": "Alyssa",
+    "percentage": 4.6522617676425547e-11,
+    "password": 7463
+  },
+  {
+    "id": 85,
+    "n_department": 60,
+    "name": "Addison",
+    "percentage": 0.000029932412172949983,
+    "password": 4139
+  },
+  {
+    "id": 86,
+    "n_department": 52,
+    "name": "Elizabeth",
+    "percentage": 0.0007950435185887178,
+    "password": 2248
+  },
+  {
+    "id": 87,
+    "n_department": 23,
+    "name": "Olivia",
+    "percentage": 0.00792290633139072,
+    "password": 7714
+  },
+  {
+    "id": 88,
+    "n_department": 1,
+    "name": "Emma",
+    "percentage": 66.35204723091503,
+    "password": 5049
+  },
+  {
+    "id": 89,
+    "n_department": 57,
+    "name": "Sophia",
+    "percentage": 0.0027578645111156286,
+    "password": 1179
+  },
+  {
+    "id": 90,
+    "n_department": 69,
+    "name": "Elizabeth",
+    "percentage": 0.0007950435185887178,
+    "password": 4689
+  },
+  {
+    "id": 91,
+    "n_department": 47,
+    "name": "Olivia",
+    "percentage": 0.00792290633139072,
+    "password": 9425
+  },
+  {
+    "id": 92,
+    "n_department": 45,
+    "name": "Ava",
+    "percentage": 0.29109776719851993,
+    "password": 7621
+  },
+  {
+    "id": 93,
+    "n_department": 90,
+    "name": "Elizabeth",
+    "percentage": 0.0007950435185887178,
+    "password": 6756
+  },
+  {
+    "id": 94,
+    "n_department": 75,
+    "name": "Sophia",
+    "percentage": 0.0027578645111156286,
+    "password": 9285
+  },
+  {
+    "id": 95,
+    "n_department": 21,
+    "name": "Madison",
+    "percentage": 1.0829679743663312,
+    "password": 3216
+  },
+  {
+    "id": 96,
+    "n_department": 62,
+    "name": "Ava",
+    "percentage": 0.29109776719851993,
+    "password": 1873
+  },
+  {
+    "id": 97,
+    "n_department": 87,
+    "name": "Ava",
+    "percentage": 0.29109776719851993,
+    "password": 5994
+  },
+  {
+    "id": 98,
+    "n_department": 2,
+    "name": "Emma",
+    "percentage": 66.35204723091503,
+    "password": 4646
+  },
+  {
+    "id": 99,
+    "n_department": 58,
+    "name": "Emily",
+    "percentage": 3.5172266440095035,
+    "password": 5155
+  },
+  {
+    "id": 100,
+    "n_department": 15,
+    "name": "Emma",
+    "percentage": 66.35204723091503,
+    "password": 3613
+  }
+]}
