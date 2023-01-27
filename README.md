@@ -22,6 +22,15 @@ npm run start
 -   public, archivos públicos
 -   routes, rutas necesarias para función aplicación
 
+### Nota: Si desea crear una nueva base de datos
+
+```
+cd BACKEND
+
+node db.js
+```
+Esto creara nuevos datos automáticamente.
+
 
 ## Herramientas
 
