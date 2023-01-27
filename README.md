@@ -16,7 +16,7 @@ npm run start
 
 -   utils, contiene todos los calculos necesarios para conseguir los datos requeridos.
 
-## Estructura archivos (BACKEND)
+## Estructura archivos (FRONTEND)
 
 -   views, contiene todas las vistas ejs
 -   public, archivos públicos
